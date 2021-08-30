@@ -1,0 +1,2 @@
+recording = "file:///C:/Users/Anil/Downloads/hindi%20literature.pdf";
+model_link = "https://teachablemachine.withgoogle.com/models/BAb3LOO3d/";
